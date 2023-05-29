@@ -1,0 +1,10 @@
+25098 p-pimentao
+55073 p-estatua
+69040 a-canguru
+86068 a-peixe
+94079 a-urso
+108070 a-tigre
+118035 p-igreja
+299086 p-a-h-piramide-camelo
+301007 p-igreja2
+323016 h-astronautas
